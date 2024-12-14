@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "110671502894",
+    "project_id": "prova-03-mobile-jetpackcompose",
+    "storage_bucket": "prova-03-mobile-jetpackcompose.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:110671502894:android:f3ce230282d04b5fd189bf",
+        "android_client_info": {
+          "package_name": "com.example.loginjetpackcompose"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCsSXQN_OQCkEKpBghNsTyjigPp-hEzfw8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
